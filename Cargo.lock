@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "wrecked-objects"
+name = "execcode"
 version = "0.1.0"

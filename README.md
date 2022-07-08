@@ -1,3 +1,3 @@
-# Wrecked Objects
+# EXECCODE
 
-弾幕STG"Wrecked Objects"です。
+弾幕STG"EXECCODE"です。
